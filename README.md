@@ -94,6 +94,11 @@ Konfigurasi Environment:
 ```bash
 nano .env
 ```
+Generate Secret:
+
+```bash
+npm run generate-secret
+```
 
 Konfigurasi default dalam file [.env](.env):
 
